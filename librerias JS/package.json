@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "natural": "^6.8.1",
+    "nlp": "^0.0.0",
+    "node-nlp": "^4.27.0",
+    "spacy": "^0.0.4",
+    "spacy-js": "^0.0.5",
+    "spacy-nlp": "^1.0.11"
+  }
+}
